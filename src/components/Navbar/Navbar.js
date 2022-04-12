@@ -8,7 +8,7 @@ const Navbar = () => {
           <div className="navbar_right">
              <ul className="nav-items">
                   <li>Uber</li>
-                  <li>Company</li>
+                  <li>company</li>
                   <li>Safety</li>
                   <li>Help</li>
                   <li>COVID-19 resources</li>

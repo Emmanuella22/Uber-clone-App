@@ -9,18 +9,29 @@
 
 .nav-items {
     display: flex;
+    margin-left: 50px;
     color: white;  
     justify-content: space-between; 
+    cursor: pointer;
     
 } 
+
 .nav-items2 {
     display: flex;
+    margin-right: 50px;
     color: white;
     justify-content: space-between;
+    cursor: pointer;
 }
 
 li {
     margin-top: 0;
     list-style: none;    
     margin: 10px;
+    
+}
+
+.nav-items li:nth-child(1){
+    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif ;
+    font-size: 19px;
 }
