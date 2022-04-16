@@ -1,8 +1,8 @@
-body{
+body {
     margin: 0;
     padding: 0;
-    background: url('../Asset/hero.coverpic.jpg');
-    background-size: cover;
+    background-image: url('../Asset/hero.coverpic.jpg');
+    background-size: contain;   
 }
 
 .hero-container{
@@ -12,10 +12,10 @@ body{
     border: 1px solid whitesmoke;
     flex-direction: row;
     background-color: whitesmoke;
-    margin-left: 11vh;
-    margin-top: 11vh;
+    margin-left:80px;
+    margin-top: 80px;
     
-
+    
 }
 
 .hero-content1{

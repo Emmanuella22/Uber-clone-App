@@ -1,0 +1,44 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: aquamarine;
+    
+}
+
+.thirdsection-header{
+   display: flex;
+   margin-top: 90px;
+   margin-left: 70px;
+   margin-bottom: 20px;
+}
+.thirdsection-container{
+    margin-top: 0;
+
+}
+.thirdsection-header2{
+    display: flex;
+    margin-left: 70px;
+    margin-bottom: 20px;
+}
+
+.thirdsection-button {
+    margin-left: 70px;
+    background-color: black;
+    color: white;
+    border: 0 solid black;
+    padding: 1em;
+    font-size: 15px;
+    cursor: pointer;
+}
+
+/*
+.thirdsection-button{
+    margin-left: 63px;
+    background-color: black;
+    color: white;
+    border: 0 solid black;
+    padding: 20px;
+    font-size: 15px;
+    font-weight: 15px;
+    cursor: pointer;
+}*/
