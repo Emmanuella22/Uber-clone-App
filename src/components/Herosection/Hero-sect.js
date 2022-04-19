@@ -1,20 +1,23 @@
 import React from "react"
 import "./Hero-sect.css"
+import {AiOutlineCar} from "react-icons/ai"
+import {FaUtensils} from "react-icons/fa"
+import {GiNetworkBars} from "react-icons/gi"
+
 
 const Herosection = () => {
     return (
           
         <div className="hero-container">
             <div className="hero-section">
-                <ul className="hero-content1">
-                    <li>Drive
-                        or deliver
-                    </li>
-                    <li>Eat</li>
-                    <li>Ride</li>
+              <ul className="hero-content1">
+                    <li><GiNetworkBars/>Drive or deliver</li>
+                    <li><FaUtensils/>Eat</li>
+                    <li><AiOutlineCar/>Ride</li>
                 </ul>
-       <hr />
-            <div className="hero-content2">
+                <hr />
+            </div>
+             <div className="hero-content2">
                 <h1 className="hero-title">
                    Get in the driver's seat and get paid
                 </h1>
@@ -30,8 +33,7 @@ const Herosection = () => {
 
            </div>
             
-         </div>
-        </div>
+        </div> 
     )
 } 
 
