@@ -10,12 +10,28 @@ const Twocontainers = () => {
 
           <div className="twocontainer-container">
                 <h1 className="title">
-                      Focus Safety, everywhere you go
+                      Focused Safety, wherever you go
                 </h1>
                 <div className="two-containers">
-                 <div className="container-right">
-                    <div className="image-right">
-                          <img src={firstimage} alt="image1"/>
+                  <div className="container-left"> 
+                    <div className="image-left"> 
+                       <img src={firstimage} alt="image1"/>
+                  </div>
+                       <h2 className="container-left-title">
+                             Our commitment to your safety
+                       </h2>
+                       <h4 className="container-left-subtitle">
+                             With every safety feature and every standard in our Community Guidelines,
+                             we're commitment to helping to create a safe environment for our users.
+                        </h4>
+                        <li className="last-title2">
+                              <li>Read about our Community Guidelines</li>
+                              <li>See all safety features</li>
+                         </li>  
+                    </div>      
+                   <div className="container-right">
+                     <div className="image-right">
+                          <img src={secondimage} alt="image2"/>
                     </div>
                       <h2 className="container-right-title">
                             Setting 10,000+ cities in motion
@@ -27,22 +43,7 @@ const Twocontainers = () => {
                             View all cities
                       </h5>
               </div>   
-                 <div className="container-left">
-                   <div className="image-left">
-                       <img src={secondimage} alt="image2"/>
-                       </div>
-                       <h2 className="container-left-title">
-                             Our commitment to your safety
-                       </h2>
-                       <h4 className="container-left-subtitle">
-                             With every safety feature and every standard in our Community Guidelines,
-                             we're commitment to helping to create a safe environment for our users.
-                        </h4>
-                        <li className="last-title2">
-                              <li>Read about our Community Guidelines</li>
-                        </li>
-                               <li>See all safety features</li>
-                 </div>
+
                 </div>          
           
        </div>
