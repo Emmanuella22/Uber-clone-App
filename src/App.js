@@ -3,6 +3,7 @@ import Navbar from './components/Navbar/Navbar';
 import Herosection from './components/Herosection/Hero-sect';
 import Thirdsection from './components/Thirdsection/Third-sect';
 import Twocontainers from './components/Twocontainers/Twocontainer';
+import Fourthsection from './components/Fourthsection/Fourthsection';
 
 import './App.css';
 
@@ -16,6 +17,7 @@ function App() {
       <Herosection />
       <Thirdsection />
       <Twocontainers />
+      <Fourthsection />
     </div>
   );
 }

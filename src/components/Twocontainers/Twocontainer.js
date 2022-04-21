@@ -17,13 +17,13 @@ const Twocontainers = () => {
                     <div className="image-left"> 
                        <img src={firstimage} alt="image1"/>
                   </div>
-                       <h2 className="container-left-title">
+                       <div className="container-left-title">
                              Our commitment to your safety
-                       </h2>
-                       <h4 className="container-left-subtitle">
+                       </div>
+                       <div className="container-left-subtitle">
                              With every safety feature and every standard in our Community Guidelines,
                              we're commitment to helping to create a safe environment for our users.
-                        </h4>
+                        </div>
                         <li className="last-title2">
                               <li>Read about our Community Guidelines</li>
                               <li>See all safety features</li>
@@ -33,18 +33,18 @@ const Twocontainers = () => {
                      <div className="image-right">
                           <img src={secondimage} alt="image2"/>
                     </div>
-                      <h2 className="container-right-title">
+                      <div className="container-right-title">
                             Setting 10,000+ cities in motion
-                      </h2>
-                      <h4 className="container-right-subtitle">
+                      </div>
+                    <div className="container-right-subtitle">
                             The app is available in thousands of cities worldwide,so you can request a ride even when you're far from home.
-                      </h4>
-                      <h5 className="last-title">
+                      </div>
+                       <li className="last-title3">
                             View all cities
-                      </h5>
-              </div>   
+                      </li>
+                </div>   
 
-                </div>          
+             </div>          
           
        </div>
     )

@@ -8,9 +8,9 @@ import "./Third-sect.css"
             <h1 className="thirdsection-header">
                 Uber for Business
             </h1>
-            <h4 className="thirdsection-header2">
+            <div className="thirdsection-header2">
                 Transform the way your company moves and feeds its people.
-            </h4>
+            </div>
             <button type="button" className="thirdsection-button" onClick="ah">
                 See how
             </button>

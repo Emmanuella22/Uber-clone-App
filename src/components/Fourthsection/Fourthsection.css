@@ -1,0 +1,70 @@
+.fourth-container {
+    display: flex;
+    flex-direction: row; 
+    align-items: center;
+    margin-top: 100px;
+    margin-left: 50px;
+    justify-content: space-between;
+    
+    
+}
+.aboutus {
+    font-size: large;
+    font-weight: 600px black;
+    margin-bottom: 25px;
+    
+}
+.aboutus-section {
+    font-size: 18px;
+    font-weight: 100px;
+    word-spacing: 1px;
+    margin-bottom: 35px;
+}
+.last-title1 {
+    text-decoration: underline;
+    margin-left: -15px;
+    cursor: pointer;
+}
+
+.Newsroom {
+    font-size: large;
+    font-weight: 600px black;
+    margin-bottom: 25px;
+}
+
+.newsroom-section {
+    font-size: 18px;
+    font-weight: 100px;
+    margin-bottom: 35px;
+    word-spacing: 2px;
+    
+}
+.last-title2 {
+    text-decoration: underline;
+    margin-left: -15px;
+    cursor: pointer;
+    
+}
+
+.globalcitizenship {
+    font-size: large;
+    font-weight: 600px black;
+    margin-bottom: 30px;
+    
+}
+
+.globalcitizenship-section {
+    font-size: 18px;
+    font-weight: 100px;
+    margin-bottom: 30px;
+    word-spacing: 2px;
+}
+
+.last-title3 {
+    margin-left: -60px;
+    cursor: pointer;
+    margin-top: 35px;
+    
+}
+
+ 

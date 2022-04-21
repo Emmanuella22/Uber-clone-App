@@ -5,6 +5,9 @@
     align-items: center;
     width: 100%;
     height: auto;
+    margin-left: 40px;
+    
+    
 }
  
      
@@ -15,13 +18,13 @@
     align-content: space-around;
     width: 100%;
 }
+
 .title {
     display: flex;
     margin-right: 735px;
     margin-bottom: 40px;
     word-spacing: 12px;
-    
-    
+        
 } 
 
 
@@ -37,31 +40,57 @@ li.last-title2{
     margin-left: 30px;
     margin-bottom: 20px;
     margin-top: 15px;
+    font-size: 20px;
+    font-weight: 30px;
     
     
 }
 .container-left-subtitle{
     margin-left: 70px;
-    font-size: 15px;
-    margin-bottom: 30px;
-    font-size: 16px;
+    margin-right: 5px;
+    font-size: 18px;
+    margin-bottom: 25px;
+    font-size: 18px;
     word-spacing: 2px;
     position: relative;
     top: 10px;
     left: -48px;
 }
-.image-left{
-    margin-left: 30px;
+
+.container-right-subtitle {
+    margin-bottom: 30px;
+    font-size: 18px;
+    position: relative;
+    top: 10px;
+    left: -48px;
+    word-spacing: 2px;
+
 }
-.image-right{
+
+
+ .image-left {
+    margin-left: 30px;
+    
+ }
+
+.image-right {
     margin-right: 38px;
     margin-bottom: 10px;
+    position: relative;
+    top: 10px;
+    left: -48px;
     
 }
 
-.container-right-title{
-    margin-right: 20px;
-    margin-bottom: 20px;
-    margin-top: 15px;
+.container-right-title {
+    margin-left: -44px;
+    margin-bottom: 15px;
+    margin-top: 25px;
+    font-size: 20px;
+    font-weight: 30px;
 }
 
+li.last-title3{
+    margin-left: -45px;
+    text-decoration: underline;
+}

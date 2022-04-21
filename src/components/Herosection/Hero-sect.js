@@ -21,15 +21,15 @@ const Herosection = () => {
                 <h1 className="hero-title">
                    Get in the driver's seat and get paid
                 </h1>
-                <h3 className="hero-subtitle">
+                <div className="hero-subtitle">
                    Drive on the platform with the largest network of active riders.
-                </h3>
+                </div>
                  <button type="button" className="hero-button" onClick="Ha">
                      Sign up to drive
                  </button>
-                 <h5 className="last-title">
+                 <div className="last-title">
                      Learn more about driving and delivering
-                 </h5>  
+                 </div>  
 
            </div>
             
