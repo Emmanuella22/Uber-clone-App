@@ -1,0 +1,48 @@
+.Ssection-container{
+    background-color: #f1eeee;
+}
+
+.Ssection-container-header{
+    font-family: sans-serif;
+    font-size: 40px;
+    margin-bottom: 80px;
+    position: relative;
+    top: 40px;
+    left: 90px;
+}
+.Ssection-container2{
+    display: flex;
+    
+}
+
+.Ssection-container-right {
+    background-color: white;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    margin-left: 90px;
+    margin-right: 70px;
+
+}
+
+.Ssection-container-left {
+    background-color: white;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    margin-left: 180px;
+
+
+}
+
+.title-container-left{
+    margin-left: 20px;
+    word-spacing: 3px;
+}
+
+.title-container-right{
+    margin-left: 20px;
+    word-spacing: 3px;
+}

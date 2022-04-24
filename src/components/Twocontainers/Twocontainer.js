@@ -10,7 +10,7 @@ const Twocontainers = () => {
 
           <div className="twocontainer-container">
                 <h1 className="title">
-                      Focused Safety, wherever you go
+                      Focused on Safety, wherever you go
                 </h1>
                 <div className="two-containers">
                   <div className="container-left"> 
