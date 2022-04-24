@@ -5,6 +5,7 @@ import Thirdsection from './components/Thirdsection/Third-sect';
 import Twocontainers from './components/Twocontainers/Twocontainer';
 import Fourthsection from './components/Fourthsection/Fourthsection';
 import Ssection from './components/Ssection/Ssection';
+import Signup from './components/Signup/Signup';
 
 
 import './App.css';
@@ -21,7 +22,7 @@ function App() {
       <Twocontainers />
       <Fourthsection />
       <Ssection />
-    
+      <Signup />
     </div>
   );
 }

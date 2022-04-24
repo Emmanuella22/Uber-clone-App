@@ -1,0 +1,21 @@
+.Signupsection {
+    margin-top: 70px;
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 80px;
+    font-family: sans-serif;
+    
+    
+}
+
+.Signupsection-header-right{
+    word-spacing: 3px;
+    margin-left: 100px;
+    margin-right: 260px;
+
+    
+}
+
+.Signupsection-header-left{
+    word-spacing: 3px;
+}

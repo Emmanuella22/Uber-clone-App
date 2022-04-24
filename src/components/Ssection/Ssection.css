@@ -1,5 +1,8 @@
 .Ssection-container{
     background-color: #f1eeee;
+    margin-bottom: 80px;
+    height: 60vh;
+
 }
 
 .Ssection-container-header{
@@ -10,9 +13,12 @@
     top: 40px;
     left: 90px;
 }
+
 .Ssection-container2{
     display: flex;
-    
+
+   
+
 }
 
 .Ssection-container-right {
