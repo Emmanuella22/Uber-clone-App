@@ -12,6 +12,7 @@
     position: relative;
     top: 40px;
     left: 90px;
+   
 }
 
 .Ssection-container2{
@@ -29,6 +30,7 @@
     align-items: center;
     margin-left: 90px;
     margin-right: 70px;
+    cursor: pointer;
 
 }
 
@@ -39,6 +41,7 @@
     justify-content: space-around;
     align-items: center;
     margin-left: 180px;
+    cursor: pointer;
 
 
 }
